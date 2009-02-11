@@ -1,0 +1,11 @@
+C:\Projects\MIMEParseConsole\MIMEParseConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\MIMEParseConsole\MIMEParseConsole\bin\Debug\MIMEParseConsole.exe
+C:\Projects\MIMEParseConsole\MIMEParseConsole\bin\Debug\MIMEParseConsole.pdb
+C:\Projects\MIMEParseConsole\MIMEParseConsole\obj\Debug\MIMEParseConsole.exe
+C:\Projects\MIMEParseConsole\MIMEParseConsole\obj\Debug\MIMEParseConsole.pdb
+D:\Projects\MIMEParseConsole\MIMEParseConsole\obj\Debug\MIMEParseConsole.exe
+D:\Projects\MIMEParseConsole\MIMEParseConsole\obj\Debug\MIMEParseConsole.pdb
+D:\Projects\MIMEParseConsole\MIMEParseConsole\bin\Debug\MIMEParseConsole.exe
+D:\Projects\MIMEParseConsole\MIMEParseConsole\bin\Debug\MIMEParseConsole.pdb
+D:\Projects\MIMEParseConsole\MIMEParseConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\MIMEParseConsole\MIMEParseConsole\bin\Debug\MIMEParseConsole.XML

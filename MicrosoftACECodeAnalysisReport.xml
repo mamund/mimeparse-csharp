@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Analysis>
+    <AnalysisEngineVersion>1.0.3272.32340</AnalysisEngineVersion>
+    <StartTimeStamp>Tuesday, February 10, 2009 9:10:57 PM</StartTimeStamp>
+    <StopTimeStamp>Tuesday, February 10, 2009 9:10:58 PM</StopTimeStamp>
+    <ElapsedTime>00:00:00.7812850</ElapsedTime>
+    <User>E3CO\mamundsen</User>
+    <DataFlowSuperGraph>
+      <Nodes>850</Nodes>
+      <Edges>1263</Edges>
+    </DataFlowSuperGraph>
+    <Targets>
+      <Target>C:\Projects\MIMEParseConsole\MIMEParseConsole\bin\Debug\MIMEParseConsole.exe</Target>
+    </Targets>
+  </Analysis>
+  <Rules>
+    <Rule>
+      <Name>Process Command Execution</Name>
+      <Identifier>ACESEC02</Identifier>
+      <TotalResults>0</TotalResults>
+      <Results />
+    </Rule>
+    <Rule>
+      <Name>File Canonicalization</Name>
+      <Identifier>ACESEC03</Identifier>
+      <TotalResults>0</TotalResults>
+      <Results />
+    </Rule>
+    <Rule>
+      <Name>Exception Information</Name>
+      <Identifier>ACESEC04</Identifier>
+      <TotalResults>0</TotalResults>
+      <Results />
+    </Rule>
+    <Rule>
+      <Name>LDAP Injection</Name>
+      <Identifier>ACESEC08</Identifier>
+      <TotalResults>0</TotalResults>
+      <Results />
+    </Rule>
+    <Rule>
+      <Name>XPath Injection</Name>
+      <Identifier>ACESEC07</Identifier>
+      <TotalResults>0</TotalResults>
+      <Results />
+    </Rule>
+    <Rule>
+      <Name>SQL Injection</Name>
+      <Identifier>ACESEC01</Identifier>
+      <TotalResults>0</TotalResults>
+      <Results />
+    </Rule>
+    <Rule>
+      <Name>Redirection to User Controlled Site</Name>
+      <Identifier>ACESEC06</Identifier>
+      <TotalResults>0</TotalResults>
+      <Results />
+    </Rule>
+    <Rule>
+      <Name>Cross-Site Scripting</Name>
+      <Identifier>ACESEC05</Identifier>
+      <TotalResults>0</TotalResults>
+      <Results />
+    </Rule>
+  </Rules>
+</Report>
