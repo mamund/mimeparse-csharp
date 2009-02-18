@@ -9,3 +9,8 @@ D:\Projects\MIMEParseConsole\MIMEParseConsole\bin\Debug\MIMEParseConsole.exe
 D:\Projects\MIMEParseConsole\MIMEParseConsole\bin\Debug\MIMEParseConsole.pdb
 D:\Projects\MIMEParseConsole\MIMEParseConsole\obj\Debug\ResolveAssemblyReference.cache
 D:\Projects\MIMEParseConsole\MIMEParseConsole\bin\Debug\MIMEParseConsole.XML
+D:\Projects\MIMEParse\MIMEParseConsole\obj\Debug\MIMEParseConsole.exe
+D:\Projects\MIMEParse\MIMEParseConsole\obj\Debug\MIMEParseConsole.pdb
+D:\Projects\MIMEParse\MIMEParseConsole\bin\Debug\MIMEParseConsole.exe
+D:\Projects\MIMEParse\MIMEParseConsole\bin\Debug\MIMEParseConsole.pdb
+D:\Projects\MIMEParse\MIMEParseConsole\obj\Debug\ResolveAssemblyReference.cache

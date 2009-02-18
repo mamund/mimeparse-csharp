@@ -348,7 +348,7 @@ namespace Amundsen
       private int _order = 0;
 
       /// <summary>
-      /// Read-Only value indicating the order of the items in the list
+      /// Place in the collection
       /// </summary>
       public int Order
       {
@@ -413,7 +413,6 @@ namespace Amundsen
         {
           if (this._quality == faq._quality)
           {
-            //rtn = string.Compare(this._mimeType, faq._mimeType, true);
             rtn = (this._order < faq._order ? -1 : 1);
           }
           else
@@ -507,7 +506,7 @@ namespace Amundsen
       Debug.Assert(MimeParse.BestMatch(mimeTypesSupported, "application/xbel+xml; q=1") == "application/xbel+xml");
 
       // direct match of our second choice with a q parameter
-      Debug.Assert(MimeParse.BestMatch(mimeTypesSupported, "application/xml; q=1") == "application/cxml");
+      Debug.Assert(MimeParse.BestMatch(mimeTypesSupported, "application/xml; q=1") == "application/xml");
       // match using a subtype wildcard
       Debug.Assert(MimeParse.BestMatch(mimeTypesSupported, "application/*; q=1") == "application/xml");
       // match using a type wildcard
