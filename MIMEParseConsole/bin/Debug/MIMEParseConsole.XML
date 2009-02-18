@@ -4,6 +4,17 @@
         <name>MIMEParseConsole</name>
     </assembly>
     <members>
+        <member name="T:Amundsen.Program">
+            <summary>
+            Console test app for MimeParse
+            
+            version : 0.1 (2009-02-10) 
+            author  : Mike Amundsen
+            email   : mamund@yahoo.com
+            credits : Joe Gregorio (joe@bitworking.org)
+            notes   : This is a C# port of the original mimeparser (see credits)
+            </summary>
+        </member>
         <member name="T:Amundsen.MimeParse">
             <summary>
              MIME-Type Parser
@@ -199,6 +210,11 @@
             <param name="obj"></param>
             <returns></returns>
         </member>
+        <member name="P:Amundsen.MimeParse.FitnessAndQuality.Order">
+            <summary>
+            Place in the collection
+            </summary>
+        </member>
         <member name="P:Amundsen.MimeParse.FitnessAndQuality.Fitness">
             <summary>
             Fitness value
@@ -235,17 +251,6 @@
             Return the last object in the collection
             </summary>
             <returns></returns>
-        </member>
-        <member name="T:Amundsen.Program">
-            <summary>
-            Console test app for MimeParse
-            
-            version : 0.1 (2009-02-10) 
-            author  : Mike Amundsen
-            email   : mamund@yahoo.com
-            credits : Joe Gregorio (joe@bitworking.org)
-            notes   : This is a C# port of the original mimeparser (see credits)
-            </summary>
         </member>
     </members>
 </doc>
