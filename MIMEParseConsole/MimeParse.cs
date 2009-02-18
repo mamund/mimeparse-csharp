@@ -20,7 +20,7 @@ namespace Amundsen
   /// - QualityParsed()   : Just like quality() except the second parameter must be pre-parsed.
   /// - BestMatch()       : Choose the mime-type with the highest quality ('q') from a list of candidates.
   /// 
-  /// version : 0.1 (2009-02-10) 
+  /// version : 0.2 (2009-02-18) : updated FitnessAndQuality to support "Order" value to maintain collection 
   /// author  : Mike Amundsen
   /// email   : mamund@yahoo.com
   /// credits : Joe Gregorio (joe@bitworking.org)
