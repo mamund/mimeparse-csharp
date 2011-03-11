@@ -8,7 +8,7 @@ namespace Amundsen
   /// Console test app for MimeParse
   /// 
   /// version : 0.1 (2009-02-10) 
-  /// author  : Mike Amundsen
+  /// author  : Mike Amundsen (@mamund)
   /// email   : mamund@yahoo.com
   /// credits : Joe Gregorio (joe@bitworking.org)
   /// notes   : This is a C# port of the original mimeparser (see credits)
